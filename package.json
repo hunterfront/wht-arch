@@ -1,0 +1,42 @@
+{
+  "_from": "wht-arch",
+  "_id": "wht-arch@1.0.0",
+  "_inBundle": false,
+  "_integrity": "sha512-lemMsO05w9kMpbWHVc5ijRCuVC5bft1VkNnZmHcpxZ2B9xchicB4jwx7+xtqsAiKFLin6hWh0k+34OzMBFl0mQ==",
+  "_location": "/wht-arch",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "tag",
+    "registry": true,
+    "raw": "wht-arch",
+    "name": "wht-arch",
+    "escapedName": "wht-arch",
+    "rawSpec": "",
+    "saveSpec": null,
+    "fetchSpec": "latest"
+  },
+  "_requiredBy": [
+    "#USER"
+  ],
+  "_resolved": "https://registry.npmjs.org/wht-arch/-/wht-arch-1.0.0.tgz",
+  "_shasum": "f141581d1276d254c6a43b240fdd4cd209cf2334",
+  "_spec": "wht-arch",
+  "_where": "C:\\Users\\wuhantao",
+  "author": "",
+  "bin": {
+    "arch-init": "bin/init.js"
+  },
+  "bundleDependencies": false,
+  "dependencies": {
+    "shelljs": "^0.8.4"
+  },
+  "deprecated": false,
+  "description": "",
+  "license": "ISC",
+  "main": "index.js",
+  "name": "wht-arch",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "version": "1.0.0"
+}
